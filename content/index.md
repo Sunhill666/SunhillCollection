@@ -18,6 +18,5 @@ title: 日山集 · Sunhill Collection
 - [[Paper Reading|论文阅读]]：检测、跟踪、低标注学习、VLM
 - [[Learning|学习札记]]：概念梳理与实验记录
 - [[Technical Blog|工程实践]]：CUDA、K8s 与可观测性
-- [[Work Document|工作文档]]：AI 眼镜系统架构设计
 
 —— Sunhill

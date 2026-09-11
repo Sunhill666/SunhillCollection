@@ -13,3 +13,5 @@ replit.nix
 quartz/cli/tui/dist/
 .turbo/
 .agents/
+private/
+content/Work Document/

@@ -13,6 +13,7 @@ configuration:
     - templates
     - .obsidian
     - .agents
+    - Work Document/**
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
@@ -231,8 +232,8 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        GitHub: https://github.com/Sunhill666/SunhillCollection
+        CC BY-NC-SA 4.0: https://creativecommons.org/licenses/by-nc-sa/4.0/
     layout:
       position: footer
       priority: 50
