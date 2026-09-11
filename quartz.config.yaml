@@ -5,7 +5,7 @@ configuration:
   enableSPA: true
   enablePopovers: true
   analytics:
-    provider: plausible
+    provider: vercel
   locale: zh-CN
   baseUrl: garden.instanext.cn
   ignorePatterns:
